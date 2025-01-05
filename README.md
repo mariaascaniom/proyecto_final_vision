@@ -18,7 +18,6 @@ Contenido del Repositorio
 Estructura de Archivos
 
 📁 vision-project
-├── 📁 calibracion_images
 │   ├── foto1.jpg
 │   ├── foto2.jpg
 │   └── ...
